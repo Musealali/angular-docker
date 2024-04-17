@@ -1,4 +1,4 @@
 export const environment = {
     production: true,
-    apiUrl: 'https://funwithapis-4kbqnvs2ha-uc.a.run.app'
+    apiUrl: 'https://dev-language-task-muslim.euwest01.umbraco.io'
   };
